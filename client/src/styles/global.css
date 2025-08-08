@@ -1,0 +1,21 @@
+
+
+:root{
+    --primary-color: #2A2730;
+    --secondary-color: #272D3C;
+    --terceary-color: #333948;
+
+    /*Text*/
+    --light-text-color: #ffffff;
+    --dark-text-color: #404040;
+        /* Select Color */
+        --bg-select-color: #4800FF;
+        --text-select-color: #8FA8FF;
+
+    /*Fonts*/
+    --small-font-size: 1rem;
+    --medium-font-size: 1.5rem;
+    --high-font-size: 2rem;
+
+    --default-border-radius: 5px;
+}
