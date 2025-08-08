@@ -1,12 +1,11 @@
 import styles from './home.module.css'
+import DashboardLayout from '../../components/layout/layout';
 
 function Home(){
     return(
-        <div>
-            <div className={styles.test}>
-            <h1>aihgihashgi</h1>
-            </div>
-        </div>
+        <DashboardLayout>
+         <h1>Testando</h1>
+        </DashboardLayout>
     )
 }
 
