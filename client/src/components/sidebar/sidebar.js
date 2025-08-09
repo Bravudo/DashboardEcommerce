@@ -10,6 +10,7 @@ function Sidebar(){
                         
                         <div className={styles.sidebar_category_redirect_container}>   
                             <div className={styles.sidebar_category_redirect}>
+                                <h2>test</h2>
                                 <h1>Vendas</h1>
                             </div>
                         </div>
